@@ -15,3 +15,5 @@ members:
 money: 0
 
 people: 100
+
+fetch: this
