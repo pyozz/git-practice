@@ -5,7 +5,8 @@ manager: Zed
 members:
   - Ezra
   - Bera
+  - Chain
 
 money: 2,560,000
 
-people: 79
+people: 3
